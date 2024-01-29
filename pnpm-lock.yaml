@@ -18,8 +18,8 @@ dependencies:
     specifier: 2.0.0
     version: 2.0.0
   isbot:
-    specifier: ^3.7.1
-    version: 3.7.1
+    specifier: ^4.4.0
+    version: 4.4.0
   lucide-react:
     specifier: ^0.317.0
     version: 0.317.0(react@18.2.0)
@@ -5638,9 +5638,9 @@ packages:
     engines: {node: '>= 14.0.0'}
     dev: true
 
-  /isbot@3.7.1:
-    resolution: {integrity: sha512-JfqOaY3O1lcWt2nc+D6Mq231CNpwZrBboLa59Go0J8hjGH+gY/Sy0CA/YLUSIScINmAVwTdJZIsOTk4PfBtRuw==}
-    engines: {node: '>=12'}
+  /isbot@4.4.0:
+    resolution: {integrity: sha512-8ZvOWUA68kyJO4hHJdWjyreq7TYNWTS9y15IzeqVdKxR9pPr3P/3r9AHcoIv9M0Rllkao5qWz2v1lmcyKIVCzQ==}
+    engines: {node: '>=18'}
     dev: false
 
   /isexe@2.0.0:
