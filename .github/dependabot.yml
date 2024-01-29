@@ -3,14 +3,11 @@ updates:
   - package-ecosystem: npm
     directory: '/'
     schedule:
-      interval: monthly
-      day: 'monday'
-    open-pull-requests-limit: 10
+      interval: 'daily'
     versioning-strategy: increase
     labels:
       - 'npm dependencies'
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
-      interval: 'monthly'
-      day: 'monday'
+      interval: 'daily'
