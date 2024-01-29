@@ -22,9 +22,9 @@
     "updatedeps": "pnpm upgrade -i --latest"
   },
   "dependencies": {
-    "@remix-run/node": "^2.4.0",
+    "@remix-run/node": "^2.5.1",
     "@remix-run/react": "^2.5.1",
-    "@remix-run/serve": "^2.4.0",
+    "@remix-run/serve": "^2.5.1",
     "clsx": "2.0.0",
     "isbot": "^4.4.0",
     "lucide-react": "^0.317.0",
